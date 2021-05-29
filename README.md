@@ -25,9 +25,4 @@ Refer to the Video :<a href ="https://www.youtube.com/watch?v=Xx0goSxpVqY"> Fire
 ##### Output Screen :
 <br/>
 
-<img src ="https://user-images.githubusercontent.com/59869563/120081317-bd85d400-c0da-11eb-83f9-7a49400dca08.mov" 
-width="439px" height="806px">
-
-<video width="439px" height="806px" controls>
-  <source src="https://user-images.githubusercontent.com/59869563/120081317-bd85d400-c0da-11eb-83f9-7a49400dca08.mov" type="video/mov">
-</video>
+[![Watch the video](https://user-images.githubusercontent.com/59869563/120081317-bd85d400-c0da-11eb-83f9-7a49400dca08.mov)](https://user-images.githubusercontent.com/59869563/120081317-bd85d400-c0da-11eb-83f9-7a49400dca08.mov)
